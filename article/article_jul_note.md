@@ -4,3 +4,4 @@
 *Explores different ways to handle one-time UI events in Android, their evolution, and common pitfalls.*
 - [MVI](https://proandroiddev.com/yes-that-is-mvi-674f810ca4fe)
 *The Pattern’s Full History, Misconceptions, and Modern Android Form*
+- [Android Support 16 Kb page size](https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html?utm_source=chatgpt.com)
