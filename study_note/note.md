@@ -9,3 +9,7 @@
 ### Android Architecture
 - [UI Layer and State Production](https://developer.android.com/topic/architecture/ui-layer/state-production)  
   *Understand how to manage UI state effectively in modern Android architecture.*
+
+### Compose
+- [Compose tips and trick] https://leedwon.github.io/posts/Compose-stability-tips-and-tricks/
+  *Compose stability*
